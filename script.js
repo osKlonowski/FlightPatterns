@@ -34,7 +34,7 @@ function setup() {
 
   airplanes = new AirplaneSystem();
   stroke(10);
-  white = color(255, 255, 255);
+  white = color(150, 170, 0);
   orange = color(255, 170, 37, 170);
   //Print the row count for each file
   // console.log(routes.getRowCount() + ' total rows in routes');
